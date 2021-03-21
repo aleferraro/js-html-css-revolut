@@ -1,3 +1,13 @@
+/*
+Ciao ragazzi,
+Esercizio di oggi: Revolut Dropdown
+Cartella/Repo: js-html-css-revolut
+Descrizione:
+Il fratello maggiore del dropdown visto insieme in classe. Il sito da copiare (solo la prima parte, va bene anche solo la navbar) è questo: https://www.revolut.com/en-IT/ ( attenzione, il layout prendetelo dallo screenshot, i contenuti dal sito )
+L'obiettivo e' riprodurre il comportamento del dropdown associato ad ogni item della navbar
+Buon lavoro, a domani!
+*/
+
 $(document).ready(function(){
 
   //hover function
